@@ -1,7 +1,7 @@
 package email.xml;
 
-import email.IContato;
-import email.MalaDireta;
+import email.ifaces.IContato;
+import email.base.MalaDireta;
 
 public class MalaDiretaXml extends MalaDireta {
     

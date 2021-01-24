@@ -1,4 +1,7 @@
-package email;
+package email.base;
+
+import email.model.Contato;
+import email.ifaces.IContato;
 
 import java.util.List;
 

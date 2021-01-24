@@ -1,4 +1,4 @@
-package email;
+package email.model;
 
 public class Contato {
     

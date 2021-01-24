@@ -1,4 +1,6 @@
-import email.MalaDireta;
+package email;
+
+import email.base.MalaDireta;
 import email.xml.MalaDiretaXml;
 
 import javax.swing.*;

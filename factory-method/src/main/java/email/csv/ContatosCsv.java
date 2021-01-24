@@ -1,8 +1,8 @@
 package email.csv;
 
 import au.com.bytecode.opencsv.CSVReader;
-import email.Contato;
-import email.IContato;
+import email.model.Contato;
+import email.ifaces.IContato;
 
 import java.io.File;
 import java.io.FileReader;

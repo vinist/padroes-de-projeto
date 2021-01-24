@@ -1,8 +1,8 @@
 package email.xml;
 
 import com.thoughtworks.xstream.XStream;
-import email.Contato;
-import email.IContato;
+import email.model.Contato;
+import email.ifaces.IContato;
 
 import java.net.URL;
 import java.util.List;
